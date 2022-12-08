@@ -40,8 +40,8 @@ This is just to show-case my skills, no movies are playable. And never will be.
 
 #### Can we use this to watchlist movies ?
 
-As of now you can. 
-*Register first by visting '/register'
+As of now you can.\
+*Register first by visting '/register'*
 
 
 ## Available Scripts
